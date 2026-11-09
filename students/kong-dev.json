@@ -1,0 +1,10 @@
+{
+  "github": "kong-dev",
+  "display_name": "kong",
+  "cohort": "ECP1N",
+  "year": 2569,
+  "tagline": "com",
+  "site": "https://kong-dev.github.io",
+  "interests": ["embedded", "robotics", "network"],
+  "accent": "#38bdf8"
+}
